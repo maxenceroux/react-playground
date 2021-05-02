@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Album from './Album'
+import "./Albums.css";
 
 function Albums({ albums }) {
     return (

@@ -1,0 +1,7 @@
+.albums .album {
+    color: blue;
+    margin-right: 15px;
+    margin-top: 15px;
+    text-align: center;
+    display: block;
+}
